@@ -1,2 +1,2 @@
-# Edu-IT-Team.sasya.github.io
+# Edu-IT-Team-sasya.github.io
 portofolio sasya
